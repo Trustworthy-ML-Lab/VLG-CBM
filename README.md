@@ -89,9 +89,6 @@ Replace `YOUR_PATH_TO_MODEL` to the output path from `train_cbm.py`.
 
 (The results for LM4CV and LaBo is not reported for datasets that use non-CLIP backbone, as they only support CLIP image encoder as the backbone.)
 
-**Explainable Decsisions:**
-![](assets/decision.png)
-
 ## Sources
 
 CUB dataset: <https://www.vision.caltech.edu/datasets/cub_200_2011/>
