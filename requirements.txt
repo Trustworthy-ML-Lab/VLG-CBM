@@ -1,0 +1,12 @@
+torch
+torchvision
+matplotlib
+tqdm
+pandas
+notebook
+tensorboard
+loguru
+pytorchcv
+opencv-python
+scikit-learn
+torcheval
